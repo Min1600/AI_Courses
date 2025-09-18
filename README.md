@@ -1,77 +1,45 @@
-"<h3>Course Objectives:</h3>
-<p>By the end of this course, participants will be able to:
-1. Employ Napkin AI to transform text into visuals across various applications.
-2. Understand and utilize the key features and functionalities of Napkin AI.
-3. Create, edit, and export visual content seamlessly.
-4. Implement best practices for visual storytelling to enhance communication effectiveness.</p>
-<h3>Course Outline:</h3>
-<h4>Section 1: Introduction to Napkin AI</h4>
-<ul>
-<li><strong>Overview</strong>: Introduces the concept of Napkin AI, highlighting its capabilities and relevance in the realm of visual communication.</li>
-<li><strong>Practical Applications</strong>: Discusses the significance of visual storytelling in business and educational contexts.</li>
-<li><strong>Exercises</strong>: Research and discuss how visuals can enhance comprehension and retention.</li>
-<li><strong>Videos</strong>:</li>
-<li><a href=""https://www.napkin.ai/"">Napkin AI - The visual AI for business storytelling</a></li>
-<li><a href=""https://medium.com/@napkin_ai/introducing-napkin-ai-the-first-visual-ai-for-business-storytelling-03a4a5f5593e"">The First Visual AI for Business Storytelling | by Napkin AI</a></li>
-</ul>
-<h4>Section 2: Getting Started with Napkin AI</h4>
-<ul>
-<li><strong>Overview</strong>: A comprehensive guide to setting up Napkin AI and navigating its intuitive interface.</li>
-<li><strong>Practical Applications</strong>: Walks participants through creating their first visual, whether from scratch or using AI-generated text.</li>
-<li><strong>Examples</strong>: Provides step-by-step screenshots for account creation and initial usage.</li>
-<li><strong>Exercises</strong>: Create a simple visual using preset templates to familiarize oneself with the platform.</li>
-<li><strong>Videos</strong>:</li>
-<li><a href=""https://help.napkin.ai/en/articles/9991710-getting-started-with-napkin-ai"">Getting Started with Napkin AI</a></li>
-<li><a href=""https://www.napkin.ai/"">Napkin AI - The visual AI for business storytelling</a></li>
-</ul>
-<h4>Section 3: Core Features of Napkin AI</h4>
-<ul>
-<li><strong>Overview</strong>: A detailed examination of core features such as text-to-visual conversion, style customization, and content refinement.</li>
-<li><strong>Practical Applications</strong>: Demonstrates how to leverage these features for crafting effective business presentations and educational materials.</li>
-<li><strong>Examples</strong>: Showcases before-and-after visuals illustrating the effectiveness of specific features.</li>
-<li><strong>Exercises</strong>: Participants will experiment with various visual styles based on the same text input to see how presentation differs.</li>
-<li><strong>Videos</strong>:</li>
-<li><a href=""https://help.napkin.ai/en/collections/10643465-features"">Features</a></li>
-<li><a href=""https://medium.com/@proflead/napkin-ai-for-beginners-step-by-step-tutorial-and-key-features-review-9e1e495d4c05"">Napkin AI for Beginners: Step-by-Step Tutorial and Key Features</a></li>
-</ul>
-<h4>Section 4: Best Practices for Visual Storytelling</h4>
-<ul>
-<li><strong>Overview</strong>: Explores key strategies for creating impactful visuals that articulate messages clearly.</li>
-<li><strong>Practical Applications</strong>: Applies insights to marketing materials, presentations, and educational content.</li>
-<li><strong>Examples</strong>: Analyzes case studies that demonstrate successful visual storytelling with similar tools.</li>
-<li><strong>Exercises</strong>: Design a presentation slide that tells a compelling visual story, focusing on clarity and engagement.</li>
-<li><strong>Videos</strong>:</li>
-<li><a href=""https://www.napkin.ai/"">Napkin AI - The visual AI for business storytelling</a></li>
-<li><a href=""https://medium.com/@napkin_ai/introducing-napkin-ai-the-first-visual-ai-for-business-storytelling-03a4a5f5593e"">The First Visual AI for Business Storytelling | by Napkin AI</a></li>
-</ul>
-<h4>Section 5: Advanced Techniques</h4>
-<ul>
-<li><strong>Overview</strong>: Introduces advanced features, including integrating Napkin AI with other tools and utilizing analytics effectively.</li>
-<li><strong>Practical Applications</strong>: Discusses how businesses can elevate their operations by integrating visuals into wider workflow tools.</li>
-<li><strong>Examples</strong>: Reviews successful implementations of Napkin AI in various organizations.</li>
-<li><strong>Exercises</strong>: Participants will create a draft presentation, incorporating peer feedback to enhance their work.</li>
-<li><strong>Videos</strong>:</li>
-<li><a href=""https://www.napkin.ai/"">Napkin AI - The visual AI for business storytelling</a></li>
-<li><a href=""https://medium.com/@Global_voice_reports./the-ultimate-guide-to-napkin-ai-a-journalists-journey-to-effortless-data-visualization-d68752013c40"">The Ultimate Guide to Napkin AI: A Journalist's Journey</a></li>
-</ul>
-<h4>Section 6: Exporting and Sharing Your Work</h4>
-<ul>
-<li><strong>Overview</strong>: Provides guidance on exporting visuals in multiple formats tailored for various platforms.</li>
-<li><strong>Practical Applications</strong>: Prepares participants to share visuals effectively for social media, print, and presentations.</li>
-<li><strong>Examples</strong>: Details different export options (PDF, PNG, etc.) and their respective use cases.</li>
-<li><strong>Exercises</strong>: Share a created visual in the most suitable format for a targeted social media campaign.</li>
-<li><strong>Videos</strong>:</li>
-<li><a href=""https://help.napkin.ai/en/articles/9991710-getting-started-with-napkin-ai"">Getting Started with Napkin AI</a></li>
-<li><a href=""https://help.napkin.ai/en/articles/9992013-how-to-export-visuals-as-png-svg-ppt-or-pdf"">How to export visuals as PNG, SVG, PPT or PDF?</a></li>
-</ul>
-<h4>Section 7: Troubleshooting &amp; Community Resources</h4>
-<ul>
-<li><strong>Overview</strong>: Addresses common issues faced by users and presents solutions available through community and support channels.</li>
-<li><strong>Practical Applications</strong>: Encourages engagement with community resources for continuous learning and troubleshooting.</li>
-<li><strong>Examples</strong>: Provides links to forums, support resources, and additional tutorial videos.</li>
-<li><strong>Exercises</strong>: Join the community to provide constructive feedback on peer visuals, enhancing collective learning.</li>
-<li><strong>Videos</strong>:</li>
-<li><a href=""https://help.napkin.ai/en/"">Napkin AI Help Center</a></li>
-<li><a href=""https://www.napkin.ai/"">Napkin AI - The visual AI for business storytelling</a></li>
-</ul>"
-![Uploading image.png…]()
+### Course Objectives:
+Participants in this course will:
+1. Understand the foundational principles and functions of Napkin AI.
+2. Learn how to generate impactful visuals from text.
+3. Explore practical applications across business, education, and content creation.
+4. Develop skills to refine visual outputs, elevating their storytelling abilities.
+
+### Course Structure:
+
+### Section 1: Introduction to Napkin AI
+- **Summary:** This section offers an overview of Napkin AI, highlighting its features and significance in contemporary content creation.
+- **Practical Applications:** Participants will discover diverse fields where Napkin AI can be effectively utilized, including marketing, education, and professional presentations.
+- **Exercise:** Engage with thought-provoking questions about how Napkin AI could be applied in personal or professional contexts.
+
+### Section 2: Getting Started with Napkin AI
+- **Summary:** A step-by-step guide will introduce participants to setting up and navigating the Napkin AI interface with ease.
+- **Example:** A practical demonstration will showcase the creation of a simple visual representation derived from given text content.
+- **Exercise:** Set up a Napkin AI account and embark on your first project, creating a visual based on your chosen text.
+
+### Section 3: Generating Visuals from Text
+- **Summary:** A comprehensive tutorial will detail the process of inputting text and selecting visuals that resonate.
+- **Practical Applications:** This section includes case studies illustrating effective visual storytelling techniques using Napkin AI.
+- **Example:** Transform a blog post into an engaging visual presentation.
+- **Exercise:** Select a piece of text and create three distinct visual representations using Napkin AI to explore creative options.
+
+### Section 4: Refining and Personalizing Visuals
+- **Summary:** Participants will learn how to customize generated visuals, making them align with personal or brand aesthetics.
+- **Practical Applications:** Discussions will underscore the importance of personalization in effective visual communication.
+- **Example:** Modify a generated visual to reflect a specific brand style guide, ensuring coherence with brand identity.
+- **Exercise:** Choose one generated visual and alter it according to specified branding criteria.
+
+### Section 5: Advanced Features and Techniques
+- **Summary:** This section provides an exploration of advanced features, including collaboration tools and integration capabilities with other software.
+- **Practical Applications:** Learn how to integrate Napkin AI with platforms like Google Slides and Microsoft PowerPoint to create enhanced presentations.
+- **Example:** Collaboratively generate a visual project with peers using Napkin AI.
+- **Exercise:** Partner with a fellow participant to create and present a short visual project, encouraging teamwork and creativity.
+
+### Section 6: Real-World Applications and The Future of Visual AI
+- **Summary:** Delve into the potential future of AI in content creation and visual storytelling, discussing emerging trends and opportunities.
+- **Practical Applications:** Learn how to innovate within your domain using vibrant visuals to captivate your audience.
+- **Example:** Analyze successful businesses that skillfully utilize visual storytelling to enhance their brand presence.
+- **Exercise:** Develop a strategic plan for implementing Napkin AI within your business or project, focusing on creative applications.
+
+### Conclusion:
+By the end of this course, participants will have gained practical, hands-on experience with Napkin AI as an indispensable tool for digital storytelling. Equipped with the skills to create striking visuals, they will be ready to engage and inform their audiences effectively, transforming the way they communicate and present information."
